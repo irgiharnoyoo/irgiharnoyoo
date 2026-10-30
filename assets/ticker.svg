@@ -1,0 +1,609 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80" role="img" aria-label="keahlian">
+  <defs>
+    <linearGradient id="tflow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#7c5cff">
+        <animate attributeName="stop-color" values="#7c5cff;#22d3ee;#f59e0b;#f43f5e;#7c5cff" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%"  stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#f59e0b;#f43f5e;#7c5cff;#22d3ee" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#f59e0b">
+        <animate attributeName="stop-color" values="#f59e0b;#f43f5e;#7c5cff;#22d3ee;#f59e0b" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="tedge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#fff" stop-opacity="0"/>
+      <stop offset="7%"   stop-color="#fff" stop-opacity="1"/>
+      <stop offset="95%"  stop-color="#fff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="tedgefade"><rect width="1200" height="80" fill="url(#tedge)"/></mask>
+  </defs>
+
+  <rect width="1200" height="80" rx="14" fill="#06070b"/>
+  <g mask="url(#tedgefade)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-2582.0 0"
+                        dur="27.179s" repeatCount="indefinite"/>
+      <g>
+    <!-- TYPESCRIPT @ x=0 -->
+    <g transform="translate(0.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.000s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw0">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.000s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;248.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.000s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="248.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="124.0" y="49.0" text-anchor="middle"
+                textLength="202.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">TYPESCRIPT</text>
+        </g>
+      </g>
+    </g>
+    <!-- REACT @ x=268 -->
+    <g transform="translate(268.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.120s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw1">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.120s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;150.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw1)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.120s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="150.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="75.0" y="49.0" text-anchor="middle"
+                textLength="104.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">REACT</text>
+        </g>
+      </g>
+    </g>
+    <!-- NEXT.JS @ x=438 -->
+    <g transform="translate(438.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.240s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw2">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.240s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;188.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw2)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.240s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="188.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="94.0" y="49.0" text-anchor="middle"
+                textLength="142.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">NEXT.JS</text>
+        </g>
+      </g>
+    </g>
+    <!-- NODE @ x=646 -->
+    <g transform="translate(646.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.360s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw3">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.360s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;150.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw3)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.360s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="150.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="75.0" y="49.0" text-anchor="middle"
+                textLength="104.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">NODE</text>
+        </g>
+      </g>
+    </g>
+    <!-- TAILWIND @ x=816 -->
+    <g transform="translate(816.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.480s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw4">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.480s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;208.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw4)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.480s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="208.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="104.0" y="49.0" text-anchor="middle"
+                textLength="162.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">TAILWIND</text>
+        </g>
+      </g>
+    </g>
+    <!-- PRISMA @ x=1044 -->
+    <g transform="translate(1044.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.600s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw5">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.600s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;168.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw5)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.600s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="168.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="84.0" y="49.0" text-anchor="middle"
+                textLength="122.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">PRISMA</text>
+        </g>
+      </g>
+    </g>
+    <!-- POSTGRESQL @ x=1232 -->
+    <g transform="translate(1232.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="0.337s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw6">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="0.337s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;248.0;248.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw6)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="0.337s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="248.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="124.0" y="49.0" text-anchor="middle"
+                textLength="202.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">POSTGRESQL</text>
+        </g>
+      </g>
+    </g>
+    <!-- EXPRESS @ x=1500 -->
+    <g transform="translate(1500.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="3.158s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw7">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="3.158s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;188.0;188.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw7)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="3.158s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="188.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="94.0" y="49.0" text-anchor="middle"
+                textLength="142.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">EXPRESS</text>
+        </g>
+      </g>
+    </g>
+    <!-- REACT NATIVE @ x=1708 -->
+    <g transform="translate(1708.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="5.347s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw8">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="5.347s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;288.0;288.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw8)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="5.347s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="288.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="144.0" y="49.0" text-anchor="middle"
+                textLength="242.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">REACT NATIVE</text>
+        </g>
+      </g>
+    </g>
+    <!-- GIT @ x=2016 -->
+    <g transform="translate(2016.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="8.589s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw9">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="8.589s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;150.0;150.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw9)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="8.589s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="150.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="75.0" y="49.0" text-anchor="middle"
+                textLength="104.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">GIT</text>
+        </g>
+      </g>
+    </g>
+    <!-- REST API @ x=2186 -->
+    <g transform="translate(2186.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="10.379s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw10">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="10.379s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;208.0;208.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw10)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="10.379s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="208.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="104.0" y="49.0" text-anchor="middle"
+                textLength="162.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">REST API</text>
+        </g>
+      </g>
+    </g>
+    <!-- DOCKER @ x=2414 -->
+    <g transform="translate(2414.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="12.779s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw11">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="12.779s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;168.0;168.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw11)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="12.779s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="168.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="84.0" y="49.0" text-anchor="middle"
+                textLength="122.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">DOCKER</text>
+        </g>
+      </g>
+    </g></g>
+      <g transform="translate(2582.0 0)">
+    <!-- TYPESCRIPT @ x=0 -->
+    <g transform="translate(0.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.000s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw0">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.000s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;248.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.000s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="248.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="124.0" y="49.0" text-anchor="middle"
+                textLength="202.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">TYPESCRIPT</text>
+        </g>
+      </g>
+    </g>
+    <!-- REACT @ x=268 -->
+    <g transform="translate(268.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.120s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw1">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.120s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;150.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw1)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.120s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="150.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="75.0" y="49.0" text-anchor="middle"
+                textLength="104.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">REACT</text>
+        </g>
+      </g>
+    </g>
+    <!-- NEXT.JS @ x=438 -->
+    <g transform="translate(438.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.240s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw2">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.240s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;188.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw2)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.240s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="188.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="94.0" y="49.0" text-anchor="middle"
+                textLength="142.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">NEXT.JS</text>
+        </g>
+      </g>
+    </g>
+    <!-- NODE @ x=646 -->
+    <g transform="translate(646.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.360s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw3">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.360s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;150.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw3)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.360s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="150.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="75.0" y="49.0" text-anchor="middle"
+                textLength="104.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">NODE</text>
+        </g>
+      </g>
+    </g>
+    <!-- TAILWIND @ x=816 -->
+    <g transform="translate(816.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.480s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw4">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.480s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;208.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw4)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.480s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="208.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="104.0" y="49.0" text-anchor="middle"
+                textLength="162.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">TAILWIND</text>
+        </g>
+      </g>
+    </g>
+    <!-- PRISMA @ x=1044 -->
+    <g transform="translate(1044.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="0.700s" begin="0.600s" repeatCount="1" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;1"/>
+      <clipPath id="cw5">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="0.700s" begin="0.600s" repeatCount="1" fill="freeze"
+                   calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0;168.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw5)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="0.700s"
+                            begin="0.600s" repeatCount="1" fill="freeze"
+                            calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" values="0 16;0 0"/>
+          <rect x="0" y="17" width="168.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="84.0" y="49.0" text-anchor="middle"
+                textLength="122.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">PRISMA</text>
+        </g>
+      </g>
+    </g>
+    <!-- POSTGRESQL @ x=1232 -->
+    <g transform="translate(1232.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="0.337s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw6">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="0.337s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;248.0;248.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw6)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="0.337s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="248.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="124.0" y="49.0" text-anchor="middle"
+                textLength="202.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">POSTGRESQL</text>
+        </g>
+      </g>
+    </g>
+    <!-- EXPRESS @ x=1500 -->
+    <g transform="translate(1500.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="3.158s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw7">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="3.158s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;188.0;188.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw7)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="3.158s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="188.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="94.0" y="49.0" text-anchor="middle"
+                textLength="142.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">EXPRESS</text>
+        </g>
+      </g>
+    </g>
+    <!-- REACT NATIVE @ x=1708 -->
+    <g transform="translate(1708.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="5.347s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw8">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="5.347s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;288.0;288.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw8)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="5.347s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="288.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="144.0" y="49.0" text-anchor="middle"
+                textLength="242.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">REACT NATIVE</text>
+        </g>
+      </g>
+    </g>
+    <!-- GIT @ x=2016 -->
+    <g transform="translate(2016.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="8.589s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw9">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="8.589s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;150.0;150.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw9)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="8.589s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="150.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="75.0" y="49.0" text-anchor="middle"
+                textLength="104.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">GIT</text>
+        </g>
+      </g>
+    </g>
+    <!-- REST API @ x=2186 -->
+    <g transform="translate(2186.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="10.379s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw10">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="10.379s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;208.0;208.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw10)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="10.379s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="208.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="104.0" y="49.0" text-anchor="middle"
+                textLength="162.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">REST API</text>
+        </g>
+      </g>
+    </g>
+    <!-- DOCKER @ x=2414 -->
+    <g transform="translate(2414.0 0)" opacity="0">
+      <animate attributeName="opacity" dur="27.179s" begin="12.779s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;1;1"/>
+      <clipPath id="cw11">
+        <rect x="0" y="17" width="0" height="46" rx="23">
+          <animate attributeName="width" dur="27.179s" begin="12.779s" repeatCount="indefinite"
+                   calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0;168.0;168.0"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#cw11)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" dur="27.179s"
+                            begin="12.779s" repeatCount="indefinite"
+                            calcMode="spline" keyTimes="0;0.02943;1" keySplines="0.16 1 0.3 1;0 0 1 1" values="0 16;0 0;0 0"/>
+          <rect x="0" y="17" width="168.0" height="46" rx="23"
+                fill="#0e1320" stroke="url(#tflow)" stroke-width="1.5"/>
+          <text x="84.0" y="49.0" text-anchor="middle"
+                textLength="122.0" lengthAdjust="spacingAndGlyphs"
+                font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="700"
+                fill="url(#tflow)">DOCKER</text>
+        </g>
+      </g>
+    </g></g>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="78" rx="14" fill="none" stroke="url(#tflow)" stroke-width="1.5" opacity=".4"/>
+</svg>
